@@ -6,7 +6,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "brainly-scraper": "^1.0.1",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "colors": "^1.4.0",
     "delay": "^4.3.0",
     "emoji-regex": "^9.0.0",
